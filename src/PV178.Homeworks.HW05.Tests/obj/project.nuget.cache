@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ruwYDA2eR3t8LnaTSpON8LWx7R3df+jJeBlds47afL0hY/eShPJVSDHsqgRrafAXYEtQzLX6I5kXk5CUdApIA==",
+  "success": true,
+  "projectFilePath": "/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05.Tests/PV178.Homeworks.HW05.Tests.csproj",
+  "expectedPackageFiles": [
+    "/Users/tuan/.nuget/packages/microsoft.testplatform.objectmodel/17.8.0/microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
+    "/Users/tuan/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/tuan/.nuget/packages/nuget.frameworks/6.5.0/nuget.frameworks.6.5.0.nupkg.sha512",
+    "/Users/tuan/.nuget/packages/system.drawing.common/8.0.2/system.drawing.common.8.0.2.nupkg.sha512",
+    "/Users/tuan/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
+    "/Users/tuan/.nuget/packages/xunit/2.7.0/xunit.2.7.0.nupkg.sha512",
+    "/Users/tuan/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
+    "/Users/tuan/.nuget/packages/xunit.analyzers/1.11.0/xunit.analyzers.1.11.0.nupkg.sha512",
+    "/Users/tuan/.nuget/packages/xunit.assert/2.7.0/xunit.assert.2.7.0.nupkg.sha512",
+    "/Users/tuan/.nuget/packages/xunit.core/2.7.0/xunit.core.2.7.0.nupkg.sha512",
+    "/Users/tuan/.nuget/packages/xunit.extensibility.core/2.7.0/xunit.extensibility.core.2.7.0.nupkg.sha512",
+    "/Users/tuan/.nuget/packages/xunit.extensibility.execution/2.7.0/xunit.extensibility.execution.2.7.0.nupkg.sha512",
+    "/Users/tuan/.nuget/packages/xunit.runner.visualstudio/2.5.7/xunit.runner.visualstudio.2.5.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'xunit.runner.visualstudio 2.5.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "xunit.runner.visualstudio",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

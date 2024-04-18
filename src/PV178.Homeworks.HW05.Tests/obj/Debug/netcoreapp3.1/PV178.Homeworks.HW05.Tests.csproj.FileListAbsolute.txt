@@ -1,0 +1,5 @@
+/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05.Tests/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW05.Tests.csproj.AssemblyReference.cache
+/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05.Tests/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW05.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05.Tests/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW05.Tests.AssemblyInfoInputs.cache
+/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05.Tests/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW05.Tests.AssemblyInfo.cs
+/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05.Tests/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW05.Tests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05/bin/Debug/netcoreapp3.1/PV178.Homeworks.HW05
+/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05/bin/Debug/netcoreapp3.1/PV178.Homeworks.HW05.deps.json
+/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05/bin/Debug/netcoreapp3.1/PV178.Homeworks.HW05.runtimeconfig.json
+/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05/bin/Debug/netcoreapp3.1/PV178.Homeworks.HW05.runtimeconfig.dev.json
+/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05/bin/Debug/netcoreapp3.1/PV178.Homeworks.HW05.dll
+/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05/bin/Debug/netcoreapp3.1/PV178.Homeworks.HW05.pdb
+/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW05.csproj.AssemblyReference.cache
+/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW05.AssemblyInfoInputs.cache
+/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW05.AssemblyInfo.cs
+/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW05.csproj.CoreCompileInputs.cache
+/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW05.csproj.CopyComplete
+/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW05.dll
+/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW05.pdb
+/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW05.genruntimeconfig.cache
+/Users/tuan/Desktop/muni fi/pv178/hws/hw05/HW05-dotNETCore/src/PV178.Homeworks.HW05/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
